@@ -1,0 +1,40 @@
+{
+    "itemlist": 
+    [
+        {
+            "src" : "diagonals_composition.jpg",
+            "composition" : "Diagonals Composition",
+            "caption" : "Books"
+        },
+        {
+            "src" : "radiating_composition.jpg",
+            "composition" : "Radiating Composition",
+            "caption" : "Rose on a Book"
+        },
+        {
+            "src" : "l-shape_composition.jpg",
+            "composition" : "L-Shaped Composition",
+            "caption" : "Forgotten Books"
+        },
+        {
+            "src" : "positive_negative_composition.jpg",
+            "composition" : "Positive Negative Composition",
+            "caption" : "Flowers and Books"
+        },
+        {
+            "src" : "rose symmetry1.jpg",
+            "composition" : "Symmetry Composition",
+            "caption" : "Rose and Mirror"
+        },
+        {
+            "src" : "triangle_composition.jpg",
+            "composition" : "Triangle Composition",
+            "caption" : "Roses and a Girl"
+        },
+        {
+            "src" : "rule of thirds_composition.jpg",
+            "composition" : "Symmetry Composition",
+            "caption" : "Girl Reading a Book"
+        }
+    ]
+}
